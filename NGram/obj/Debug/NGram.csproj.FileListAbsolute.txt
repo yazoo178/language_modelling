@@ -1,0 +1,6 @@
+c:\users\will\documents\visual studio 2013\Projects\NGram\NGram\bin\Debug\NGram.exe
+c:\users\will\documents\visual studio 2013\Projects\NGram\NGram\bin\Debug\NGram.pdb
+c:\users\will\documents\visual studio 2013\Projects\NGram\NGram\obj\Debug\NGram.csprojResolveAssemblyReference.cache
+c:\users\will\documents\visual studio 2013\Projects\NGram\NGram\obj\Debug\NGram.exe
+c:\users\will\documents\visual studio 2013\Projects\NGram\NGram\obj\Debug\NGram.pdb
+C:\Users\Will\Documents\Visual Studio 2013\Projects\NGram\NGram\bin\Debug\NGram.exe.config
